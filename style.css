@@ -1,0 +1,47 @@
+.nav {
+  padding-top:16px;
+  padding-right:20px;
+}
+.navi {
+  float:right;
+  margin: 0 9px;
+  font-family:arial;
+  color:#404040;
+  font-size:13px;
+  line-height: 24px;
+}
+.navi button {
+  color: white;
+  background: #2E8AE6;
+  border:none;
+  height:30px;
+  width:70px;
+}
+.navi img {
+  padding-top:3px;
+}
+.main{
+padding-top:176px;
+text-align: center;
+}
+.main img {
+  height:95px;
+  width:269px;
+}
+.main form input {
+width:569px;
+height:26px;
+margin-top:19px;
+border:1px solid rgba(0, 0, 0, 0.2);
+}
+.main form button{
+color: rgb(68, 68, 68);
+font-weight:bold;
+font-size:10px;
+background: #2E8AE6;
+height:29px;
+width:118px;
+margin: 16px 4px;
+border: 1px solid rgba(0, 0, 0, 0.1);
+background: rgb(245, 245, 245);
+}
